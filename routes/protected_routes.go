@@ -1,8 +1,8 @@
 package routes
 
 import (
-	controllers "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/controllers"
-	middlewares "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/middlewares"
+	controllers "github.com/PaleBlueDot1990/magic-stream-movies/controllers"
+	middlewares "github.com/PaleBlueDot1990/magic-stream-movies/middlewares"
 
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	"github.com/gin-gonic/gin"

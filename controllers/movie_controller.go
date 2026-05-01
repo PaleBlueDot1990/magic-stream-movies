@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	database "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/database"
-	models "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/models"
-	"github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/utils"
+	database "github.com/PaleBlueDot1990/magic-stream-movies/database"
+	models "github.com/PaleBlueDot1990/magic-stream-movies/models"
+	utils "github.com/PaleBlueDot1990/magic-stream-movies/utils"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"

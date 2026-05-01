@@ -3,7 +3,7 @@ package middlewares
 import (
 	"net/http"
 
-	utils "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/utils"
+	utils "github.com/PaleBlueDot1990/magic-stream-movies/utils"
 
 	"github.com/gin-gonic/gin"
 )

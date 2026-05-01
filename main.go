@@ -6,8 +6,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	
-	routes "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/routes"
-	database "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/database"
+	routes "github.com/PaleBlueDot1990/magic-stream-movies/routes"
+	database "github.com/PaleBlueDot1990/magic-stream-movies/database"
 )
 
 func main() {

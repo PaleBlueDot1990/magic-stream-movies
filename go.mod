@@ -1,4 +1,4 @@
-module github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer
+module github.com/PaleBlueDot1990/magic-stream-movies
 
 go 1.25.0
 

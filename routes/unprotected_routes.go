@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controllers "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/controllers"
+	controllers "github.com/PaleBlueDot1990/magic-stream-movies/controllers"
 
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	"github.com/gin-gonic/gin"

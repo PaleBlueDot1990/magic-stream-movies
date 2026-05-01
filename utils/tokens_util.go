@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	database "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/database"
+	database "github.com/PaleBlueDot1990/magic-stream-movies/database"
 	"github.com/gin-gonic/gin"
 
 	jwt "github.com/golang-jwt/jwt/v5"

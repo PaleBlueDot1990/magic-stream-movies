@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	database "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/database"
-	models "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/models"
-	utils "github.com/PaleBlueDot1990/magic-stream-movies/Server/MagicStreamMoviesServer/utils"
+	database "github.com/PaleBlueDot1990/magic-stream-movies/database"
+	models "github.com/PaleBlueDot1990/magic-stream-movies/models"
+	utils "github.com/PaleBlueDot1990/magic-stream-movies/utils"
 
 	"golang.org/x/crypto/bcrypt"
 	"github.com/gin-gonic/gin"
